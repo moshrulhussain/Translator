@@ -74,6 +74,9 @@ class MoshTranslatorTest {
 	@Test
 	void some_test() {
 		System.out.println("I am printin some stuff");
+		
+		System.out.println("some more output");
+		
 	}
 
 }
