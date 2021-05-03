@@ -71,10 +71,5 @@ class MoshTranslatorTest {
 
 	}
 
-	@Test
-	void some_test() {
-		
-		System.out.println("this is a joke");
-	}
 
 }
